@@ -1,0 +1,11 @@
+{
+    "markdown.preview.fontFamily": "'D2Coding ligature',-apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif",
+    "editor.fontFamily": "'D2Coding ligature',Consolas, 'Courier New', monospace",
+    "editor.inlineSuggest.fontFamily": "'D2Coding ligature'",
+    "debug.console.fontFamily": "'D2Coding ligature'",
+    "scm.inputFontFamily": "'D2Coding ligature'",
+    "terminal.integrated.fontFamily": "'D2Coding ligature'",
+    "notebook.output.fontFamily": "'D2Coding ligature'",
+    "chat.editor.fontFamily": "'D2Coding ligature'",
+    "editor.fontLigatures": true
+}
